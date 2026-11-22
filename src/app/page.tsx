@@ -64,8 +64,8 @@ const gallery = [
   { src: "/images/inauguration.jpg", alt: "Inauguration day at K.K. Cares", span: "md:col-span-2 md:row-span-2" },
   { src: "/images/lab-analyzers.jpg", alt: "Automated analyzers in the lab", span: "" },
   { src: "/images/reception.jpg", alt: "Reception and help desk", span: "md:row-span-2" },
-  { src: "/images/lab-bench.jpg", alt: "Hematology and coagulation bench", span: "" },
   { src: "/images/waiting-area.jpg", alt: "Comfortable waiting area", span: "md:row-span-2" },
+  { src: "/images/lab-bench.jpg", alt: "Hematology and coagulation bench", span: "" },
   { src: "/images/lab-desk.jpg", alt: "Reporting desk", span: "" },
   { src: "/images/building-night.jpg", alt: "Lab building lit up at night", span: "" },
 ];
